@@ -32,7 +32,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                     </SidebarLink>
                 </SidebarMenu>
                 <SideBtnWrap>
-                    <SidebarRoute to="/signin">
+                    <SidebarRoute href='https://portafoliohenry.netlify.app/assets/pdf/HV_HenryAsdrubalRodriguezMorales.pdf' target="_blank">
                         Hoja de vida
                     </SidebarRoute>
                 </SideBtnWrap>
