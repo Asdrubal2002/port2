@@ -4,7 +4,7 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'tengo 20 años me encantan',
-    headLine: 'las plantas, los animales y la musica de los años pasados.',
+    headLine: 'Las plantas, los animales y la musica de los años pasados.',
     description: 'Me gusta estar en tranquilidad, me gusta conectarme con la naturaleza. Aprender de forma autónoma temas de mi carrera que me hagan crecer personal y profesionalmente, también estar actualizado sobre la cultura y la política de mi país.',
     buttonLabel: 'Empieza',
     imgStart: false,

@@ -42,7 +42,6 @@ const InfoSection = ({
                             <Subtitle darkText={darkText}>
                                 {description}
                             </Subtitle>
-                            
                         </TextWrapper>
                     </Column1>
                     
