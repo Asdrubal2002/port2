@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaInstagram, FaLinkedin, FaMailBulk,FaHtml5,FaCss3Alt,FaJs,FaBootstrap,FaPython,FaJava,FaDatabase,FaNodeJs } from 'react-icons/fa'
+import { FaGithub, FaInstagram, FaLinkedin, FaMailBulk } from 'react-icons/fa'
 import {
     FooterContainer,
     FooterWrap,
@@ -31,7 +31,7 @@ const Footer = () => {
                         </FooterLinkItems>
                         <FooterLinkItems>
                             <FooterLinkTitle>Back-End</FooterLinkTitle>
-                            <FooterLink href='http://localhost:3000/' target="_blank"> Python Java Sql NodeJs</FooterLink>
+                            <FooterLink> Python Java Sql NodeJs</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
