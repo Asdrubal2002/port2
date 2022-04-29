@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Icon1 from '../../images/envt5.svg';
+import Icon1 from '../../images/tras.svg';
 
-import Icon2 from '../../images/envt6.svg';
+import Icon2 from '../../images/git.svg';
 
-import Icon3 from '../../images/envt7.svg';
+import Icon3 from '../../images/car.svg';
 
 import { 
     ServicesContainer,
