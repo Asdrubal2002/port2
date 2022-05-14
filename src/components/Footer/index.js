@@ -27,11 +27,11 @@ const Footer = () => {
                     <FooterLinksWrapper>
                         <FooterLinkItems>
                             <FooterLinkTitle>Front-End</FooterLinkTitle>
-                            <FooterLink> Html  Css Js Boottrap</FooterLink>
+                            <FooterLink> Html  Css  Js  Bootstrap</FooterLink>
                         </FooterLinkItems>
                         <FooterLinkItems>
                             <FooterLinkTitle>Back-End</FooterLinkTitle>
-                            <FooterLink> Python Java Sql NodeJs</FooterLink>
+                            <FooterLink> Python(Django)  Sql(MySQL)  NodeJs(Express)</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
@@ -39,13 +39,13 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SociaLogo to="/">Henry Rodriguez</SociaLogo>
-                        <WebsiteRights>Henry &copy; {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+                        <WebsiteRights>Henry &copy; {new Date().getFullYear()} Todos los derechos reservados.</WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href="mailto:henryasdrubalrodriguezmorales@gmail.com" aria-label="Facebook" >
+                            <SocialIconLink href="mailto:henryasdrubalrodriguezmorales@gmail.com" aria-label="Email" >
                                 <FaMailBulk />
                             </SocialIconLink>
 
-                            <SocialIconLink href="https://www.youtube.com/watch?v=Nl54MJDR2p8&list=LL&index=6" target="_blank" aria-label="Instagram" >
+                            <SocialIconLink href="https://instagram.com/asdrubal200000?igshid=YmMyMTA2M2Y=" target="_blank" aria-label="Instagram" >
                                 <FaInstagram />
                             </SocialIconLink>
 
