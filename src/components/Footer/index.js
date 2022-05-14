@@ -31,7 +31,7 @@ const Footer = () => {
                         </FooterLinkItems>
                         <FooterLinkItems>
                             <FooterLinkTitle>Back-End</FooterLinkTitle>
-                            <FooterLink> Python(Django)  Sql(MySQL)  NodeJs(Express)</FooterLink>
+                            <FooterLink> Python  Sql  NodeJs</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
