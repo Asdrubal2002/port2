@@ -1,4 +1,4 @@
-import video from '../../video/space2.mp4'
+import video from '../../video/alien2.mp4'
 import {
     HeroContainer,
     HeroBg,
