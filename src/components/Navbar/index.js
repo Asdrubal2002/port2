@@ -83,6 +83,7 @@ const Navbar = ({ toggle }) => {
                                 offset={-80}
                                 >Experiencia</NavLinks>
                             </NavItem>
+                            
                         </NavMenu>
                          <NavBtn>
                             <NavBtnLink href='https://portafoliohenry.netlify.app/assets/pdf/HV_HenryAsdrubalRodriguezMorales.pdf' target="_blank">

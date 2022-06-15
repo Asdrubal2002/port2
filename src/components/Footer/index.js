@@ -23,19 +23,6 @@ const Footer = () => {
         <FooterContainer>
             <FooterWrap>
 
-                <FooterLinksContainer>
-                    <FooterLinksWrapper>
-                        <FooterLinkItems>
-                            <FooterLinkTitle>Front-End</FooterLinkTitle>
-                            <FooterLink> Html  Css  Js  Bootstrap</FooterLink>
-                        </FooterLinkItems>
-                        <FooterLinkItems>
-                            <FooterLinkTitle>Back-End</FooterLinkTitle>
-                            <FooterLink> Python  Sql  NodeJs</FooterLink>
-                        </FooterLinkItems>
-                    </FooterLinksWrapper>
-                </FooterLinksContainer>
-
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SociaLogo to="/">Henry Rodriguez</SociaLogo>
