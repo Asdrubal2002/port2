@@ -48,6 +48,7 @@ export const SociaLogo = styled(Link)`
 export const WebsiteRights = styled.small`
     color: #fff;
     margin-bottom: 16px;
+    align-items: center;
 `;
 
 export const SocialIcons = styled.div`
