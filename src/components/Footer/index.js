@@ -9,11 +9,6 @@ import {
     WebsiteRights,
     SocialIcons,
     SocialIconLink,
-    FooterLinksContainer,
-    FooterLinksWrapper,
-    FooterLinkItems,
-    FooterLinkTitle,
-    FooterLink
 
 } from './FooterElements'
 
