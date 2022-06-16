@@ -49,6 +49,7 @@ export const WebsiteRights = styled.small`
     color: #fff;
     margin-bottom: 16px;
     align-items: center;
+    text-align: center;
 `;
 
 export const SocialIcons = styled.div`
