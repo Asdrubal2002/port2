@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'Estudiante del',
     headLine: 'Politecnico Jaime Isaza Cadavid',
-    description: 'Soy técnico profesional de desarrollo de software, estoy estudiando una tecnología en sistematización de datos estoy en 5 semestre. Tengo nivel B1 de inglés realizado en Smart.',
+    description: 'Soy técnico profesional de desarrollo de software, estoy estudiando una tecnología en sistematización de datos estoy en 6 semestre. Tengo nivel B1 de inglés realizado en Smart.',
     buttonLabel: 'Empieza',
     imgStart: true,
     img: require('../../images/education.svg').default,
