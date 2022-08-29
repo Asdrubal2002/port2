@@ -33,7 +33,6 @@ const Services = () => {
             <ServicesCard>
                 <ServicesIcon src={Icon2}/>
                 <ServicesH2>Github</ServicesH2>
-                <ServicesP>El mejor conocimiento es el que he obtenido por propia voluntad.</ServicesP>
                 <BotonGit href='https://github.com/Asdrubal2002' target="_blank">Visitar</BotonGit>
             </ServicesCard>
 
