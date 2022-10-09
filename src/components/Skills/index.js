@@ -35,7 +35,7 @@ const Skills = () => {
 
                 <ServicesCard>
                     <ServicesIcon src={Icon3} />
-                    <ServicesH2>Sql</ServicesH2>
+                    <ServicesH2>Base de datos</ServicesH2>
                 </ServicesCard>
 
 
