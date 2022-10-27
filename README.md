@@ -12,7 +12,7 @@ https://presentacionhenry.netlify.app/
 
 ## Ejecución 
 
-- npm start
+- npm run start
 
 
 
