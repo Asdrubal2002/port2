@@ -86,8 +86,8 @@ const Navbar = ({ toggle }) => {
                             
                         </NavMenu>
                          <NavBtn>
-                            <NavBtnLink href='https://portafoliohenry.netlify.app/assets/pdf/HV_HenryAsdrubalRodriguezMorales.pdf' target="_blank">
-                                Hoja de vida
+                            <NavBtnLink href='mailto:henryasdrubalrodriguezmorales@gmail.com' target="_blank">
+                                Correo
                             </NavBtnLink>
                         </NavBtn>
                     </NavbarContainer>
