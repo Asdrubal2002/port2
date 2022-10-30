@@ -37,7 +37,7 @@ const Footer = () => {
                                 <FaGithub />
                             </SocialIconLink>
                             
-                            <SocialIconLink href="https://www.linkedin.com/in/henry-asdr%C3%BAbal-rodr%C3%ADguez-morales-16779b207/" target="_blank" aria-label="LinkedIn" >
+                            <SocialIconLink href="https://www.linkedin.com/in/henry-asdrubal-rodr%C3%ADguez-morales-16779b207/" target="_blank" aria-label="LinkedIn" >
                                 <FaLinkedin />
                             </SocialIconLink>
 
