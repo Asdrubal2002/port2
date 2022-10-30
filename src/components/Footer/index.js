@@ -1,5 +1,7 @@
 import React from 'react'
-import { FaGithub, FaInstagram, FaLinkedin, FaMailBulk } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaMailBulk } from 'react-icons/fa'
+import { SiPlatzi } from "react-icons/si";
+
 import {
     FooterContainer,
     FooterWrap,
@@ -27,8 +29,8 @@ const Footer = () => {
                                 <FaMailBulk />
                             </SocialIconLink>
 
-                            <SocialIconLink href="https://instagram.com/asdrubal200000?igshid=YmMyMTA2M2Y=" target="_blank" aria-label="Instagram" >
-                                <FaInstagram />
+                            <SocialIconLink href="https://platzi.com/p/asdrubal-rodriguez-morales/" target="_blank" aria-label="Instagram" >
+                                <SiPlatzi />
                             </SocialIconLink>
 
                             <SocialIconLink href="https://github.com/Asdrubal2002" target="_blank" aria-label="GitHud" >
