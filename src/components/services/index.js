@@ -21,7 +21,7 @@ const Services = () => {
   return (
     <ServicesContainer id="services">
         <ServicesH1>
-            Proyectos
+            Habilidades
         </ServicesH1>
         <ServicesWrapper>
             <ServicesCard>
