@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Icon1 from '../../images/reno.svg';
+import Icon1 from '../../images/front1.svg';
 
 import Icon2 from '../../images/repo.svg';
 
-import Icon3 from '../../images/tran.svg';
+import Icon3 from '../../images/back1.svg';
 
 import { 
     ServicesContainer,
@@ -26,20 +26,21 @@ const Services = () => {
         <ServicesWrapper>
             <ServicesCard>
                 <ServicesIcon src={Icon1}/>
-                <ServicesH2>Renobas</ServicesH2>
-                <ServicesP>Aplicación para el aprovechamiento de material reciclable.</ServicesP> 
+                <ServicesH2>Front-End</ServicesH2>
+                <ServicesP>Html | Css | React | Bootstrap | Js</ServicesP>
             </ServicesCard>
 
             <ServicesCard>
                 <ServicesIcon src={Icon2}/>
-                <ServicesH2>Repositorio</ServicesH2>
-                <BotonGit href='https://github.com/Asdrubal2002' target="_blank">Visualizar proyectos</BotonGit>
+                <ServicesH2>Proyectos</ServicesH2>
+                <ServicesP>Proyectos realizados en el transcurso de mi carrera.</ServicesP>
+                <BotonGit href='https://github.com/Asdrubal2002?tab=repositories' target="_blank">Visualizar proyectos</BotonGit>
             </ServicesCard>
 
             <ServicesCard>
                 <ServicesIcon src={Icon3}/>
-                <ServicesH2>Comodify</ServicesH2>
-                <ServicesP>Aplicación para la mejora de movilidad en la ciudad con Carpooling.</ServicesP>
+                <ServicesH2>Back-End</ServicesH2>
+                <ServicesP>Python | Java | Node | Express | Sql</ServicesP> 
             </ServicesCard>
 
             

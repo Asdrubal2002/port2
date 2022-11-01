@@ -25,7 +25,7 @@ const Sidebar = ({ isOpen, toggle }) => {
                         Educación
                     </SidebarLink>
                     <SidebarLink to="services" onClick={toggle}>
-                        Proyectos
+                        Habilidades
                     </SidebarLink>
                     <SidebarLink to="signup" onClick={toggle}>
                         Experiencia
