@@ -1,10 +1,10 @@
 import React from 'react'
 
-import Icon1 from '../../images/tras.svg';
+import Icon1 from '../../images/reno.svg';
 
-import Icon2 from '../../images/git.svg';
+import Icon2 from '../../images/repo.svg';
 
-import Icon3 from '../../images/car.svg';
+import Icon3 from '../../images/tran.svg';
 
 import { 
     ServicesContainer,
@@ -32,7 +32,7 @@ const Services = () => {
 
             <ServicesCard>
                 <ServicesIcon src={Icon2}/>
-                <ServicesH2>Github</ServicesH2>
+                <ServicesH2>Repositorio</ServicesH2>
                 <BotonGit href='https://github.com/Asdrubal2002' target="_blank">Visualizar proyectos</BotonGit>
             </ServicesCard>
 
