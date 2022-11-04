@@ -18,7 +18,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1>Henry Asdrubal Rodriguez Morales</HeroH1>
                 <HeroP>
-                Naturaleza y Progreso
+                La tolerancia es la mejor religión. (Victor Hugo)
                 </HeroP>
             </HeroContent>
         </HeroContainer>
