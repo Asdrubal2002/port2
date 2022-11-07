@@ -27,7 +27,7 @@ const Services = () => {
             <ServicesCard>
                 <ServicesIcon src={Icon1}/>
                 <ServicesH2>Front-End</ServicesH2>
-                <ServicesP>Html | Css | React | Bootstrap | Js</ServicesP>
+                <ServicesP>Html | Css | Bootstrap | JS</ServicesP>
             </ServicesCard>
 
             <ServicesCard>
@@ -40,7 +40,7 @@ const Services = () => {
             <ServicesCard>
                 <ServicesIcon src={Icon3}/>
                 <ServicesH2>Back-End</ServicesH2>
-                <ServicesP>Python | Java | Node | Express | Sql</ServicesP> 
+                <ServicesP>Python | Java | Node | SQL</ServicesP> 
             </ServicesCard>
 
             
