@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'Estudiante del',
     headLine: 'Politécnico Jaime Isaza Cadavid',
-    description: 'Soy técnico profesional de desarrollo de software, estoy estudiando una tecnología en sistematización de datos, estoy en 6 semestre tengo nivel B1 en inglés, estoy realizando una certificación en fundamentos de analítica de datos con Correlation One.',
+    description: 'Soy técnico profesional de desarrollo de software, estoy estudiando una tecnología en sistematización de datos, estoy en 6 semestre tengo nivel B1 en inglés y realice una certificación en fundamentos de analítica de datos con Correlation One.',
     buttonLabel: 'Empieza',
     imgStart: true,
     img: require('../../images/edu.svg').default,
