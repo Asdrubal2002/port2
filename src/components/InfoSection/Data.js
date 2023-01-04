@@ -38,7 +38,7 @@ export const homeObjThree = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'Realice mis prácticas',
-    headLine: 'En Bancolombia como practicante de desarrollo web',
+    headLine: 'En Bancolombia como aprendiz (T)',
     description: 'Empece en el grupo Bancolombia el 21 de enero del 2021 y terminé el 27 de julio del mismo año.',
     buttonLabel: 'Empieza',
     imgStart: false,
