@@ -41,7 +41,7 @@ const Navbar = ({ toggle }) => {
                 <Nav scrollNav={scrollNav}>
                     <NavbarContainer>
                         <NavLogo to="/" onClick={toggleHome}>
-                            <h1>Portafolio</h1>
+                            <h1>HARM</h1>
                         </NavLogo>
                         <MobileIcon onClick={toggle}>
                             <FaBars />
@@ -54,7 +54,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Sobre mi</NavLinks>
+                                >About Me</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="discover"
@@ -63,7 +63,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Educación</NavLinks>
+                                >Education</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="services"
@@ -72,7 +72,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Habilidades</NavLinks>
+                                >Skills</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="signup"
@@ -81,13 +81,13 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Experiencia</NavLinks>
+                                >Experience</NavLinks>
                             </NavItem>
                             
                         </NavMenu>
                          <NavBtn>
                             <NavBtnLink href='mailto:henryasdrubalrodriguezmorales@gmail.com' target="_blank">
-                                Contacto
+                                Contact
                             </NavBtnLink>
                         </NavBtn>
                     </NavbarContainer>

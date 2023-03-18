@@ -22,8 +22,8 @@ const Footer = () => {
 
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SociaLogo to="/">Henry Rodriguez</SociaLogo>
-                        <WebsiteRights>Henry &copy; {new Date().getFullYear()} Todos los derechos reservados.</WebsiteRights>
+                        <SociaLogo to="/">HARM</SociaLogo>
+                        <WebsiteRights>Henry &copy; {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="mailto:henryasdrubalrodriguezmorales@gmail.com" aria-label="Email" >
                                 <FaMailBulk />
