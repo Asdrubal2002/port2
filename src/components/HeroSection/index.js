@@ -18,7 +18,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1>Henry Asdrubal Rodriguez Morales</HeroH1>
                 <HeroP>
-                Estudiante de desarrollo de software y Análisis de datos
+                    Software development and data analysis student                
                 </HeroP>
             </HeroContent>
         </HeroContainer>
