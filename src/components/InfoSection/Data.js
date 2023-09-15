@@ -3,7 +3,7 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: "I am 20 years old, I like",
+    topLine: "I am 21 years old, I like",
     headLine: 'Nature.',
     description: 'My philosophy of life is to take every good opportunity that presents itself along the path that one is traveling, to learn independently to grow personally and professionally, and also to be updated on the behavior of my society.',
     buttonLabel: 'Empieza',
