@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'student of the',
     headLine: 'Politécnico Jaime Isaza Cadavid',
-    description: 'I am a professional software development technician, I am studying data systematization technology, I am in the 7th semester, B1 level in English, certification in data analytics with Correlation One, and talent industry.',
+    description: 'I am a professional software development technician, I am studying data systematization technology, I am in the 7th semester, B1 level in English, certification in data analytics with Correlation One, and Oracle Foundations Associate.',
     buttonLabel: 'Empieza',
     imgStart: true,
     img: require('../../images/edu.svg').default,
