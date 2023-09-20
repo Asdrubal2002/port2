@@ -34,7 +34,7 @@ const Services = () => {
                 <ServicesIcon src={Icon2}/>
                 <ServicesH2>Proyectos</ServicesH2>
                 <ServicesP>Proyectos realizados durante mi carrera</ServicesP>
-                <BotonGit href='https://github.com/Asdrubal2002?tab=repositories' target="_blank">View projects</BotonGit>
+                <BotonGit href='https://github.com/Asdrubal2002?tab=repositories' target="_blank">Ver proyectos</BotonGit>
             </ServicesCard>
 
             <ServicesCard>
