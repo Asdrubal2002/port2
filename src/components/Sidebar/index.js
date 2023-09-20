@@ -19,21 +19,21 @@ const Sidebar = ({ isOpen, toggle }) => {
             <SidebarWrapper>
                 <SidebarMenu>
                     <SidebarLink to="about" onClick={toggle}> 
-                        About Me
+                        Sobre mí
                     </SidebarLink>
                     <SidebarLink to="discover" onClick={toggle}>
-                        Education
+                        Educación
                     </SidebarLink>
                     <SidebarLink to="services" onClick={toggle}>
-                        Skills
+                        Habilidades
                     </SidebarLink>
                     <SidebarLink to="signup" onClick={toggle}>
-                        Experience
+                        Experiencia
                     </SidebarLink>
                 </SidebarMenu>
                 <SideBtnWrap>
                     <SidebarRoute href='mailto:henryasdrubalrodriguezmorales@gmail.com' target="_blank">
-                        Contact
+                        Contáctame
                     </SidebarRoute>
                 </SideBtnWrap>
             </SidebarWrapper>
