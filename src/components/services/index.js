@@ -21,7 +21,7 @@ const Services = () => {
   return (
     <ServicesContainer id="services">
         <ServicesH1>
-            Skills
+            Habilidades
         </ServicesH1>
         <ServicesWrapper>
             <ServicesCard>
@@ -32,8 +32,8 @@ const Services = () => {
 
             <ServicesCard>
                 <ServicesIcon src={Icon2}/>
-                <ServicesH2>Projects</ServicesH2>
-                <ServicesP>Projects carried out during my career.</ServicesP>
+                <ServicesH2>Proyectos</ServicesH2>
+                <ServicesP>Proyectos realizados durante mi carrera</ServicesP>
                 <BotonGit href='https://github.com/Asdrubal2002?tab=repositories' target="_blank">View projects</BotonGit>
             </ServicesCard>
 
