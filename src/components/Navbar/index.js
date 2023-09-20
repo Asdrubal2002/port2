@@ -54,7 +54,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >About Me</NavLinks>
+                                >Sobre mí</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="discover"
@@ -63,7 +63,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Education</NavLinks>
+                                >Educación</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="services"
@@ -72,7 +72,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Skills</NavLinks>
+                                >habilidades</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="signup"
@@ -81,13 +81,13 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >Experience</NavLinks>
+                                >Experiencia</NavLinks>
                             </NavItem>
                             
                         </NavMenu>
                          <NavBtn>
                             <NavBtnLink href='mailto:henryasdrubalrodriguezmorales@gmail.com' target="_blank">
-                                Contact
+                                Contáctame
                             </NavBtnLink>
                         </NavBtn>
                     </NavbarContainer>
