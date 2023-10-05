@@ -16,7 +16,7 @@ const HeroSection = () => {
                 <VideoBg autoPlay loop muted src={video} type='video/mp4' />
             </HeroBg>
             <HeroContent>
-                <HeroH1>Henry Asdrubal Rodriguez Morales</HeroH1>
+                <HeroH1>Henry Asdrubal Rodríguez Morales</HeroH1>
                 <HeroP>
                    Desarrollador y Estudiante            
                 </HeroP>
