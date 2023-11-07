@@ -72,7 +72,7 @@ const Navbar = ({ toggle }) => {
                                 spy={true} 
                                 exact='true' 
                                 offset={-80}
-                                >habilidades</NavLinks>
+                                >Habilidades</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to="signup"
