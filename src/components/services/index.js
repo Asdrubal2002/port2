@@ -27,7 +27,7 @@ const Services = () => {
             <ServicesCard>
                 <ServicesIcon src={Icon1}/>
                 <ServicesH2>Front-End</ServicesH2>
-                <ServicesP>Html | Css | Bootstrap | JS</ServicesP>
+                <ServicesP>Html | Css | JS | React</ServicesP>
             </ServicesCard>
 
             <ServicesCard>
