@@ -86,7 +86,7 @@ const Navbar = ({ toggle }) => {
                             
                         </NavMenu>
                          <NavBtn>
-                            <NavBtnLink href='mailto:henryasdrubalrodriguezmorales@gmail.com' target="_blank">
+                            <NavBtnLink href='mailto:' target="_blank">
                                 Contáctame
                             </NavBtnLink>
                         </NavBtn>
