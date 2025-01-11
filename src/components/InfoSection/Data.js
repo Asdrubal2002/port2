@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: "Tengo 21 años, soy",
     headLine: 'Colombiano',
-    description: 'Mi filosofía de vida es aprovechar cada buena oportunidad que se presente en el camino que uno va recorriendo, aprender de forma independiente para crecer personal y profesionalmente, también estar actualizado sobre el comportamiento de mi sociedad.',
+    description: 'Mi filosofía de vida se basa en aprovechar al máximo cada oportunidad valiosa que surge en el camino, aprendiendo de forma autónoma para crecer tanto personal como profesionalmente. Además, considero fundamental mantenerme actualizado sobre los cambios y tendencias en mi entorno social.',
     buttonLabel: 'Empieza',
     imgStart: false,
     img: require('../../images/perf.svg').default,
